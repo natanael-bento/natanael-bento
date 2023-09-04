@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Natanael 🖐️
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ Sou apaixonado por tecnologia e estou em busca de mais aprendizados!
+<br/>
+acompanhe minha jornada atraves do meu <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
   [![Natanael GitHub stats](https://github-readme-stats.vercel.app/api?username=natanael-bento&show_icons=true&theme=dracula&count_private=true)
@@ -20,7 +22,6 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e em busca de mais aprendizados!
 
 ### Proximas Tecnologias e ferramentas de estudo:
 <div style="display: inline_block">
