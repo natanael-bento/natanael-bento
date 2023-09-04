@@ -31,6 +31,7 @@ acompanhe minha jornada atraves do meu <img align="center" alt="linkedin" src="h
 
 </div><br/>
 
+### Grafico pizza sobre meus repositorios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-bento&layout=pie)
 
 
